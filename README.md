@@ -16,7 +16,7 @@ Or instead you can work with <b><i>Heatmaps</i></b> and remember to address foll
 * pick the color map in accordance to the
 
 <figure>
-<p float="left">
+<p align="center">
     <img src="/images/1_a.png" width="320">
     <img src="/images/1_b.png" width="320">
 </p>
