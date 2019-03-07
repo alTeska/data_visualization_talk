@@ -4,7 +4,7 @@ Talk about Data visualization in Science. Based on my experience with ratCAVE pr
 
 ### Summary:
 
-What should we keep in mind, when working with big datasets? In case of <b><i>Scatter plots</b></i - 3 hyperparameters:
+What should we keep in mind, when working with big datasets? In case of <b><i>Scatter plots</b></i> - 3 hyperparameters:
 
 * overplotting - avoid obscuring the data
 * saturation - look howmany points overlapping cause saturation of intensity points
